@@ -1,10 +1,10 @@
-project for bsc devOps
-
-![workflow](//https://github.com/nick0411/devops/actions/workflows/main.yml/badge.svg)
-
-[![LICENSE](https://img.shields.io/github/license/<github-username>/devops.svg?style=flat-square)](https://github.com/nick0411/devops/blob/master/LICENSE)
-
+Software Engineering Methods
+Network Engineering Methods
+![workflow](https://github.com/nick0411/devops/actions/workflows/main.yml/badge.svg)
 # DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/nick0411/devops/A workflow for my Hello World App/devops?style=flat-square)
+# Software Engineering Methods
 
-adding some text for testing CI workflow
+* Master Build Status ![Master](https://img.shields.io/github/actions/workflow/status/nick0411/devops/main.yml?branch=master)
+* Develop Build Status ![Develop](https://img.shields.io/github/actions/workflow/status/nick0411/devops/main.yml?branch=develop)
+* License [![License](https://img.shields.io/badge/license-Apache--2.0-green.svg)](LICENSE)
+* Release ![Release](https://img.shields.io/github/v/release/nick0411/devops?color=grey)
